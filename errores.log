@@ -1,0 +1,4 @@
+ {[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado}
+ {[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado}
+*:[10/02/2017 15:02:40.73][172.16.1.186][N_E] SELECT codigo, pai_nombre from paises ORDER BY PAI_NOMBRE ASC [0][0]  {[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado}
+*:[10/02/2017 15:02:40.73][172.16.1.186][N_E] SELECT CODIGO, EDO_NOMBRE FROM ESTADOS ORDER BY EDO_NOMBRE ASC [0][0]  {[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado}
